@@ -11,6 +11,6 @@ Running simulate many, what is the average yearly loss with a relative precision
 How much should the company budget to make sure that it can cover these losses in 90% of the simulated scenarios?
 
 ### Code
-I am using Python 2 and code.py contains the code used to solve this problem. And I import nlib.py (Prof. Massimo Di Pierro from DePaul University) into code.py.
+I am using Python 2 and **code.py** contains the code used to solve this problem. And I import **nlib.py** (Prof. Massimo Di Pierro from DePaul University) into code.py.
 ### Final Report
-Final report explains the problem, solution with explanations, and includes an appendix containing the code (commented and indented). 
+**Final report** explains the problem, solution with explanations, and includes an appendix containing the code (commented and indented). 
