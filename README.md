@@ -1,4 +1,4 @@
-## Loss-Estimation-Using-Monte-Carlo-Algorithm
+## Monte Carlo Algorithm_Loss Estimation
 ### Problem
 You run a company with two industrial plants. Occasionally there are accidents, which incur a cost.
 
